@@ -1,0 +1,31 @@
+body
+{
+  background: url("blackground.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.layer
+{
+  background-color: rgba(248, 247, 216, 0.7);
+  height:50%;
+  position:relative;
+}
+.card
+{
+  max-width:100vh;
+  margin:10vh auto;
+  padding: 40px;
+  margin-top: 13vh;
+  box-shadow: 8px 6px 12px 2px rgba(30, 0, 0, 0.7);
+}
+.card-title
+{
+  text-align:center;
+}
+/*Card logo*/
+.center
+{
+  width:30%;
+  margin:auto;
+}
